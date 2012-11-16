@@ -1,0 +1,131 @@
+.reveal h1 {
+  font-family: "Arial", sans-serif;
+  font-size: 60px;
+  padding-bottom: 0.2em;
+  margin-bottom: 0.5em;
+}
+
+.reveal h2 {
+  font-family: "Arial", sans-serif;
+  font-size: 60px;
+  border-bottom: 1px solid #AAA;
+  padding-bottom: 0.2em;
+  margin-bottom: 0.5em;
+  text-align: left;
+}
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  font-family: "Arial", sans-serif;
+  text-transform: inherit;
+  letter-spacing: +0.0em;
+}
+
+.reveal ul ul {
+  list-style-type: circle;
+}
+
+.reveal .align-left {
+  text-align: left;
+  margin-left: 1em;
+}
+
+.reveal img.logo {
+  background: transparent;
+  border: none;
+  box-shadow: none;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  margin: 0;
+  padding: 0;
+}
+
+.reveal iframe.fit {
+  width: 100%;
+  height: 70%;
+}
+
+.reveal p {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.reveal li {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+.reveal blockquote {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.reveal .progress {
+  height: 0.5em;
+}
+
+.reveal .controls {
+  right: 1em;
+  bottom: 1em;
+}
+
+/*.reveal a.down:after {
+  content: '\25BC';
+  position: relative;
+  top: 0;
+}
+*/
+
+
+/*
+.reveal .slides {
+  height: 100%;
+  top: 0;
+  margin-top: 0;
+}
+
+.reveal .slides>section {
+  min-height: 90%;
+}
+
+.reveal .slides>section>section {
+  min-height: 100%;
+}
+*/
+
+/*********************************************
+ * FOOTER
+ *********************************************/
+
+.reveal footer {
+  position: absolute;
+  bottom: 0;
+  /*margin-top: 1em;*/
+  width: 93%;
+  text-align: center;
+  font-size: 0.8em;
+  background: #D5D5D5;
+  color: #777;
+}
+
+.reveal footer p {
+  margin: 0;
+}
+
+.reveal footer a {
+  vertical-align: 10%;
+  /*color: #333333;*/
+}
+
+.reveal .tooltip {
+  position: absolute;
+  right: 3%;
+  top: 13%;
+  width: 12%;
+  font-size: 75%;
+  background: #FF6;
+}
