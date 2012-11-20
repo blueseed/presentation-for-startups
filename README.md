@@ -13,3 +13,5 @@ into HTML5+CSS3+JavaScript goodness, using the [reveal.js][] framework.
 2. Investigate if and why the presentation crashes in Safari on the first iPad and on the iPhone
 
 3. See the TODO items in `startups.html`
+
+[reveal.js]: https://github.com/hakimel/reveal.js
