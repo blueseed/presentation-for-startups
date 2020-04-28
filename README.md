@@ -1,6 +1,6 @@
 # Blueseed presentation for startups
 
-Live demo: <http://blueseed.co/presentations/startups.html>
+Live demo: <http://blueseed.com/presentations/startups.html>
 
 This presentation is a work in progress to convert our
 [Slideshare presentation for startups](https://www.slideshare.net/Blueseed/blueseed-visafree-startup-incubator-on-a-ship-12-miles-from-silicon-valley/)
